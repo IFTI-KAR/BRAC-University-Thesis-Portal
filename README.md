@@ -1,4 +1,4 @@
-# 🎓 BRACU Research Thesis Management Portal (Monorepo)
+# 🎓 BRACU Research Thesis Management Portal 
 
 > **A full-stack monorepo containing both the Frontend client and Backend API server designed to automate the entire thesis workflow at BRAC University.**
 
